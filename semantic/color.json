@@ -615,11 +615,11 @@
   "overlay": {
     "primary": {
       "100": {
-        "value": "rgba( {core.colors.brand.primary.600} ,0.09)",
+        "value": "rgba({core.colors.brand.primary.600}, 0.09)",
         "type": "color"
       },
       "200": {
-        "value": "rgba({core.colors.brand.primary.600},0.18)",
+        "value": "rgba({core.colors.brand.primary.600}, 0.18)",
         "type": "color"
       },
       "300": {
@@ -653,11 +653,11 @@
     },
     "neutral": {
       "100": {
-        "value": "rgba( {core.colors.base} ,0.09)",
+        "value": "rgba({core.colors.brand.neutral.900}, 0.09)",
         "type": "color"
       },
       "200": {
-        "value": "rgba({core.colors.base},0.18)",
+        "value": "rgba({core.colors.brand.neutral.900}, 0.18)",
         "type": "color"
       },
       "300": {

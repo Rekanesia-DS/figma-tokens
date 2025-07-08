@@ -172,7 +172,7 @@
           "value": "{seed.fontFamily.sansSerif.inter}",
           "type": "fontFamilies"
         },
-        "tittle": {
+        "title": {
           "value": "{seed.fontFamily.sansSerif.canada}",
           "type": "fontFamilies"
         },
