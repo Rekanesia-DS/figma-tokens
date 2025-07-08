@@ -8,35 +8,35 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.carrot.100}",
+            "value": "{colors.seed.carrot.50}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.carrot.100}",
+            "value": "{colors.seed.carrot.200}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.carrot.900}",
+            "value": "{colors.seed.carrot.1000}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.carrot.900}",
+            "value": "{colors.seed.carrot.1100}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.carrot.1200}",
+            "value": "{colors.seed.carrot.1300}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.carrot.1200}",
+            "value": "{colors.seed.carrot.1400}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.carrot.1700}",
+            "value": "{colors.seed.carrot.1600}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.carrot.1700}",
+            "value": "{colors.seed.carrot.1800}",
             "type": "color"
           }
         },
@@ -46,35 +46,35 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.chilli.100}",
+            "value": "{colors.seed.chilli.50}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.chilli.100}",
+            "value": "{colors.seed.chilli.200}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.chilli.900}",
+            "value": "{colors.seed.chilli.1000}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.chilli.900}",
+            "value": "{colors.seed.chilli.1100}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.chilli.1200}",
+            "value": "{colors.seed.chilli.1300}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.chilli.1200}",
+            "value": "{colors.seed.chilli.1400}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.chilli.1700}",
+            "value": "{colors.seed.chilli.1600}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.chilli.1700}",
+            "value": "{colors.seed.chilli.1800}",
             "type": "color"
           }
         },
@@ -84,35 +84,35 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.cucumber.100}",
+            "value": "{colors.seed.cucumber.50}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.cucumber.100}",
+            "value": "{colors.seed.cucumber.200}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.cucumber.900}",
+            "value": "{colors.seed.cucumber.1000}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.cucumber.900}",
+            "value": "{colors.seed.cucumber.1100}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.cucumber.1200}",
+            "value": "{colors.seed.cucumber.1300}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.cucumber.1200}",
+            "value": "{colors.seed.cucumber.1400}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.cucumber.1700}",
+            "value": "{colors.seed.cucumber.1600}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.cucumber.1700}",
+            "value": "{colors.seed.cucumber.1800}",
             "type": "color"
           }
         },
@@ -122,35 +122,35 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.sky.100}",
+            "value": "{colors.seed.sky.50}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.sky.100}",
+            "value": "{colors.seed.sky.200}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.sky.900}",
+            "value": "{colors.seed.sky.1000}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.sky.900}",
+            "value": "{colors.seed.sky.1100}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.sky.1200}",
+            "value": "{colors.seed.sky.1300}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.sky.1200}",
+            "value": "{colors.seed.sky.1400}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.sky.1700}",
+            "value": "{colors.seed.sky.1600}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.sky.1700}",
+            "value": "{colors.seed.sky.1800}",
             "type": "color"
           }
         }
@@ -420,27 +420,27 @@
       "sys": {
         "preventive": {
           "50": {
-            "value": "{colors.seed.base.white}",
+            "value": "{colors.seed.carrot.2100}",
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.carrot.2100}",
+            "value": "{colors.seed.carrot.2000}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.carrot.2100}",
+            "value": "{colors.seed.carrot.1900}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.carrot.1300}",
+            "value": "{colors.seed.carrot.1600}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.carrot.1300}",
+            "value": "{colors.seed.carrot.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.carrot.1000}",
+            "value": "{colors.seed.carrot.1200}",
             "type": "color"
           },
           "600": {
@@ -448,11 +448,11 @@
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.carrot.1700}",
+            "value": "{colors.seed.carrot.800}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.carrot.1700}",
+            "value": "{colors.seed.carrot.600}",
             "type": "color"
           }
         },
@@ -462,23 +462,23 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.chilli.2100}",
+            "value": "{colors.seed.chilli.2000}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.chilli.2100}",
+            "value": "{colors.seed.chilli.1900}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.chilli.1300}",
+            "value": "{colors.seed.chilli.1600}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.chilli.1300}",
+            "value": "{colors.seed.chilli.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.chilli.1000}",
+            "value": "{colors.seed.chilli.1200}",
             "type": "color"
           },
           "600": {
@@ -486,11 +486,11 @@
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.chilli.1700}",
+            "value": "{colors.seed.chilli.800}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.chilli.1700}",
+            "value": "{colors.seed.chilli.600}",
             "type": "color"
           }
         },
@@ -500,23 +500,23 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.cucumber.2100}",
+            "value": "{colors.seed.cucumber.2000}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.cucumber.2100}",
+            "value": "{colors.seed.cucumber.1900}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.cucumber.1300}",
+            "value": "{colors.seed.cucumber.1600}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.cucumber.1300}",
+            "value": "{colors.seed.cucumber.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.cucumber.1000}",
+            "value": "{colors.seed.cucumber.1200}",
             "type": "color"
           },
           "600": {
@@ -524,11 +524,11 @@
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.cucumber.1700}",
+            "value": "{colors.seed.cucumber.800}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.cucumber.1700}",
+            "value": "{colors.seed.cucumber.600}",
             "type": "color"
           }
         },
@@ -538,23 +538,23 @@
             "type": "color"
           },
           "100": {
-            "value": "{colors.seed.sky.2100}",
+            "value": "{colors.seed.sky.2000}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.sky.2100}",
+            "value": "{colors.seed.sky.1900}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.sky.1300}",
+            "value": "{colors.seed.sky.1600}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.sky.1300}",
+            "value": "{colors.seed.sky.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.sky.1000}",
+            "value": "{colors.seed.sky.1200}",
             "type": "color"
           },
           "600": {
@@ -562,11 +562,11 @@
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.sky.1700}",
+            "value": "{colors.seed.sky.800}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.sky.1700}",
+            "value": "{colors.seed.sky.600}",
             "type": "color"
           }
         }

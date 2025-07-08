@@ -208,65 +208,65 @@
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.passion.800}",
+            "value": "{colors.seed.passion.1000}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.passion.800}",
+            "value": "{colors.seed.passion.1100}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.passion.1200}",
+            "value": "{colors.seed.passion.1300}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.passion.1200}",
+            "value": "{colors.seed.passion.1400}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.passion.1700}",
+            "value": "{colors.seed.passion.1600}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.passion.1700}",
+            "value": "{colors.seed.passion.1800}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.passion.1700}",
+            "value": "{colors.seed.passion.2000}",
             "type": "color"
           }
         },
         "neutral": {
           "100": {
-            "value": "{colors.seed.cranberries.100}",
+            "value": "{colors.seed.base.white}",
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.cranberries.400}",
+            "value": "{colors.seed.cranberries.300}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.cranberries.400}",
+            "value": "{colors.seed.cranberries.500}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.cranberries.1700}",
+            "value": "{colors.seed.cranberries.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.cranberries.1700}",
+            "value": "{colors.seed.cranberries.1600}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.cranberries.2100}",
+            "value": "{colors.seed.cranberries.1800}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.cranberries.2100}",
+            "value": "{colors.seed.cranberries.2000}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.cranberries.2200}",
+            "value": "{colors.seed.cranberries.2100}",
             "type": "color"
           },
           "900": {
@@ -274,7 +274,7 @@
             "type": "color"
           },
           "00": {
-            "value": "{colors.seed.cranberries.100}",
+            "value": "{colors.seed.base.white}",
             "type": "color"
           }
         }
@@ -290,31 +290,31 @@
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.passion.2000}",
+            "value": "{colors.seed.passion.1900}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.passion.2000}",
+            "value": "{colors.seed.passion.1700}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.passion.1100}",
+            "value": "{colors.seed.passion.1400}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.passion.1100}",
+            "value": "{colors.seed.passion.1200}",
             "type": "color"
           },
           "600": {
-            "value": "{colors.seed.passion.600}",
+            "value": "{colors.seed.passion.900}",
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.passion.600}",
+            "value": "{colors.seed.passion.700}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.passion.600}",
+            "value": "{colors.seed.passion.500}",
             "type": "color"
           }
         },
@@ -324,19 +324,19 @@
             "type": "color"
           },
           "200": {
-            "value": "{colors.seed.cranberries.2000}",
+            "value": "{colors.seed.cranberries.2100}",
             "type": "color"
           },
           "300": {
-            "value": "{colors.seed.cranberries.2000}",
+            "value": "{colors.seed.cranberries.1900}",
             "type": "color"
           },
           "400": {
-            "value": "{colors.seed.cranberries.1700}",
+            "value": "{colors.seed.cranberries.1600}",
             "type": "color"
           },
           "500": {
-            "value": "{colors.seed.cranberries.1700}",
+            "value": "{colors.seed.cranberries.1300}",
             "type": "color"
           },
           "600": {
@@ -344,15 +344,15 @@
             "type": "color"
           },
           "700": {
-            "value": "{colors.seed.cranberries.1000}",
+            "value": "{colors.seed.cranberries.700}",
             "type": "color"
           },
           "800": {
-            "value": "{colors.seed.cranberries.100}",
+            "value": "{colors.seed.cranberries.400}",
             "type": "color"
           },
           "900": {
-            "value": "{colors.seed.cranberries.100}",
+            "value": "{colors.seed.cranberries.200}",
             "type": "color"
           },
           "00": {
