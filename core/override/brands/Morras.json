@@ -365,29 +365,29 @@
     "corner": {
       "comfort": {
         "s": {
-          "value": "{seed.borderRadius.700}",
+          "value": "{seed.borderRadius.lg}",
           "type": "borderRadius"
         },
         "m": {
-          "value": "{seed.borderRadius.900}",
+          "value": "{seed.borderRadius.xl}",
           "type": "borderRadius"
         },
         "l": {
-          "value": "{seed.borderRadius.1000}",
+          "value": "{seed.borderRadius.2xl}",
           "type": "borderRadius"
         }
       },
       "compact": {
         "s": {
-          "value": "{seed.borderRadius.700}",
+          "value": "{seed.borderRadius.sm}",
           "type": "borderRadius"
         },
         "m": {
-          "value": "{seed.borderRadius.400}",
+          "value": "{seed.borderRadius.md}",
           "type": "borderRadius"
         },
         "l": {
-          "value": "{seed.borderRadius.1000}",
+          "value": "{seed.borderRadius.lg}",
           "type": "borderRadius"
         }
       }
