@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
     "seed/colors",
-    "seed/dimensions",
+    "seed/dimensions", 
     "seed/typography",
+    "core/colors",
     "core/override/contrast/default",
     "core/override/contrast/highContrast",
     "core/override/brands/Lime",
