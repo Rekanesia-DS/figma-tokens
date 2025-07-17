@@ -1,7 +1,8 @@
+
 {
   "form": {
-    "textInput": {
-      "textField": {
+    "text-input": {
+      "text-field": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -102,7 +103,7 @@
             "type": "color"
           }
         },
-        "helperText": {
+        "helper-text": {
           "default": {
             "value": "{base.color.neutral.text.subtle}",
             "type": "color"
@@ -113,7 +114,7 @@
           }
         }
       },
-      "textArea": {
+      "text-area": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -217,7 +218,7 @@
           }
         }
       },
-      "passwordField": {
+      "password-field": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -290,7 +291,7 @@
             "type": "color"
           }
         },
-        "toggleIcon": {
+        "toggle-icon": {
           "default": {
             "value": "{base.color.neutral.fill.subtle}",
             "type": "color"
@@ -323,7 +324,7 @@
           }
         }
       },
-      "searchField": {
+      "search-field": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -380,7 +381,7 @@
             "type": "color"
           }
         },
-        "searchIcon": {
+        "search-icon": {
           "default": {
             "value": "{base.color.neutral.fill.subtle}",
             "type": "color"
@@ -394,7 +395,7 @@
             "type": "color"
           }
         },
-        "clearIcon": {
+        "clear-icon": {
           "default": {
             "value": "{base.color.neutral.fill.subtle}",
             "type": "color"
@@ -431,7 +432,7 @@
           }
         }
       },
-      "otpInput": {
+      "otp-input": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -600,7 +601,7 @@
             "type": "color"
           }
         },
-        "chevronIcon": {
+        "chevron-icon": {
           "default": {
             "value": "{base.color.neutral.fill.subtle}",
             "type": "color"
@@ -661,13 +662,13 @@
               "type": "color"
             }
           },
-          "checkIcon": {
+          "check-icon": {
             "value": "{base.color.selected.fill.default}",
             "type": "color"
           }
         }
       },
-      "multiSelect": {
+      "multi-select": {
         "background": {
           "default": {
             "value": "{base.color.neutral.background.default}",
@@ -745,7 +746,7 @@
             "value": "{base.color.neutral.border.subtle}",
             "type": "color"
           },
-          "removeIcon": {
+          "remove-icon": {
             "default": {
               "value": "{base.color.neutral.fill.subtle}",
               "type": "color"
@@ -921,7 +922,7 @@
           }
         }
       },
-      "radioButton": {
+      "radio-button": {
         "background": {
           "unchecked": {
             "value": "{base.color.neutral.background.default}",
@@ -1085,7 +1086,7 @@
           }
         }
       },
-      "segmentedControl": {
+      "segmented-control": {
         "background": {
           "container": {
             "value": "{base.color.neutral.background.subtle}",
@@ -1164,8 +1165,8 @@
         }
       }
     },
-    "specialInput": {
-      "datePicker": {
+    "special-input": {
+      "date-picker": {
         "field": {
           "background": {
             "default": {
@@ -1250,7 +1251,7 @@
               "value": "{base.color.neutral.text.strong}",
               "type": "color"
             },
-            "navigationIcon": {
+            "navigation-icon": {
               "default": {
                 "value": "{base.color.neutral.fill.default}",
                 "type": "color"
@@ -1285,7 +1286,7 @@
                 "value": "{base.color.action.background.default}",
                 "type": "color"
               },
-              "inRange": {
+              "in-range": {
                 "value": "{base.color.action.background.subtle}",
                 "type": "color"
               },
@@ -1311,7 +1312,7 @@
                 "value": "{base.color.disabled.text.default}",
                 "type": "color"
               },
-              "otherMonth": {
+              "other-month": {
                 "value": "{base.color.neutral.text.muted}",
                 "type": "color"
               }
@@ -1325,7 +1326,7 @@
           }
         }
       },
-      "timePicker": {
+      "time-picker": {
         "field": {
           "background": {
             "default": {
@@ -1431,7 +1432,7 @@
           }
         }
       },
-      "dateRangePicker": {
+      "date-range-picker": {
         "field": {
           "background": {
             "default": {
@@ -1489,7 +1490,7 @@
           }
         },
         "calendar": {
-          "rangeStart": {
+          "range-start": {
             "background": {
               "value": "{base.color.action.background.default}",
               "type": "color"
@@ -1499,7 +1500,7 @@
               "type": "color"
             }
           },
-          "rangeEnd": {
+          "range-end": {
             "background": {
               "value": "{base.color.action.background.default}",
               "type": "color"
@@ -1509,7 +1510,7 @@
               "type": "color"
             }
           },
-          "rangeMiddle": {
+          "range-middle": {
             "background": {
               "value": "{base.color.action.background.subtle}",
               "type": "color"
@@ -1521,7 +1522,7 @@
           }
         }
       },
-      "colorPicker": {
+      "color-picker": {
         "field": {
           "background": {
             "default": {
@@ -1633,7 +1634,7 @@
           }
         }
       },
-      "fileUpload": {
+      "file-upload": {
         "dropzone": {
           "background": {
             "default": {
@@ -1700,7 +1701,7 @@
             }
           }
         },
-        "fileItem": {
+        "file-item": {
           "background": {
             "default": {
               "value": "{base.color.neutral.background.default}",
@@ -2321,7 +2322,7 @@
           }
         }
       },
-      "iconButton": {
+      "icon-button": {
         "primary": {
           "background": {
             "default": {
@@ -2459,7 +2460,7 @@
           }
         }
       },
-      "floatingActionButton": {
+      "floating-action-button": {
         "background": {
           "default": {
             "value": "{base.color.action.background.default}",
@@ -2509,7 +2510,7 @@
           }
         }
       },
-      "buttonGroup": {
+      "button-group": {
         "background": {
           "container": {
             "value": "transparent",
@@ -2579,7 +2580,7 @@
           }
         }
       },
-      "splitButton": {
+      "split-button": {
         "primary": {
           "background": {
             "default": {
