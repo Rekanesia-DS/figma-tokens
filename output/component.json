@@ -1,5 +1,5 @@
 {
-  "form&input": {
+  "form": {
     "textInput": {
       "textField": {
         "background": {
@@ -1981,7 +1981,7 @@
       }
     }
   },
-  "action&interaction": {
+  "action": {
     "buttons": {
       "button": {
         "primary": {
