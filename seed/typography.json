@@ -167,32 +167,32 @@
     },
     "lineHeight": {
       "none": {
-        "value": "1",
+        "value": "100%",
         "description": "No line height - tight spacing",
         "type": "lineHeights"
       },
       "tight": {
-        "value": "1.25",
+        "value": "125%",
         "description": "Tight line height - compact text",
         "type": "lineHeights"
       },
       "snug": {
-        "value": "1.375",
+        "value": "138%",
         "description": "Snug line height - slightly compact",
         "type": "lineHeights"
       },
       "normal": {
-        "value": "1.5",
+        "value": "150%",
         "description": "Normal line height - balanced readability",
         "type": "lineHeights"
       },
       "relaxed": {
-        "value": "1.625",
+        "value": "163%",
         "description": "Relaxed line height - comfortable reading",
         "type": "lineHeights"
       },
       "loose": {
-        "value": "2",
+        "value": "200%",
         "description": "Loose line height - generous spacing",
         "type": "lineHeights"
       },
