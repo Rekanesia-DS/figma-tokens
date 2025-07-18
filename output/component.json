@@ -309,7 +309,7 @@
               "type": "color"
             },
             "active": {
-              "value": "{modifier.state.pressed.action.fill}",
+              "value": "{action&interaction.buttons.button.primary.border.active}",
               "type": "color"
             }
           },
